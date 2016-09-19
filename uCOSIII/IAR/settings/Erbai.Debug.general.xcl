@@ -1,0 +1,13 @@
+"H:\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"H:\IAR Systems\Embedded Workbench 7.3\arm\bin\armjlink2.dll" 
+
+"H:\ËÄÖá´úÂë\uCOSIII\IAR\Debug\Exe\c.out" 
+
+--plugin "H:\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "H:\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+
+
+
